@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating a blog using Next.js<br>🌱 I’m currently learning Sequelize <br>⚡ Fun fact: my favorite color is green!
+🔭 I’m currently working on creating a blog using Next.js, and learning about authorization via JWTs in class <br>⚡ Fun fact: my favorite color is green!
 
 
 ## 🌐 Socials:
