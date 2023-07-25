@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating a blog using Next.js, learning about authorization via JWTs in class, and also working on a group project. <br>⚡ Fun fact: my favorite color is green!
+🔭 I’m currently fascinated by the concept of digital garden and learning more about data structures & algorithms. <br>⚡ Fun fact: my favorite color is green!
 
 
 ## 🌐 Socials:
